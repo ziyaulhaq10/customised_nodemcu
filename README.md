@@ -107,3 +107,4 @@ The device reads its configuration from a JSON file stored in EEPROM.
 
 Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
 
+# testing
